@@ -33,5 +33,38 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  </span>
+  
 
+<span align="center">
+  
+# *Formações Acadêmicas e Cursos destaque:*
+  
+</span>
+
+
+  
+<span align="justify">
+
+⚙  Bacharel em Engenharia de Produção na Faculdade Estácio de Sá (ESTÁCIO)
+
+ 🛣 Tecnólogo em Logística na Universidade Paulista (UNIP)
+
+👩🏻‍💼  Srum Master pela Digital Innovation One (DIO) e estudante para certificação *PSM I* da Scrum.org
+
+📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
+
+📃  Estudante tecnólogo em DevOps no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
+
+👩‍💻  Estudante em Engenharia da Qualidade de Software na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
+
+💻  Estudante em Desenvolvovimento Full Stack Pyton na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
+
+🤖  Estudante em Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
+
+🚀  Estudante em Specialist Machine Learning na Digital Innovation One (DIO) 
+
+🎲  Estudante em Specialist SQL Database na Digital Innovation One (DIO)
+  
 </span>
