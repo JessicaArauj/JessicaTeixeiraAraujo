@@ -9,7 +9,7 @@
 
 <span align="justify">
   
-Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de análise e ciência de dados, devops, engenharia da qualidade de software, estatística, gestão de projetos, inteligência artificial, internet das coisas, machine learning, metodologias ágeis e framework scrum. Aqui na plataforama você terá acesso a alguns projetos realizados durante meus estudos, trajétoria profissional e pessoal.
+Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de análise e ciência de dados, devops, engenharia da qualidade de software, estatística, gestão de projetos, inteligência artificial, internet das coisas, machine learning, metodologias ágeis e framework scrum. Aqui na plataforama você terá acesso a alguns projetos realizados durante meus estudos, trajetória profissional e pessoal.
   
 </span>
 
