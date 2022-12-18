@@ -21,6 +21,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/111321791/208255224-ca4cb6b8-b4e6-4b49-9bce-9203ad600155.png">
+  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://user-images.githubusercontent.com/111321791/208299302-9de15bb1-0107-4775-8d91-04b3febaaa8e.png">
           
 </div>
   
