@@ -23,16 +23,11 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaTeixeiraAraujo&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/111321791/208255224-ca4cb6b8-b4e6-4b49-9bce-9203ad600155.png">
-  <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://user-images.githubusercontent.com/111321791/208299302-9de15bb1-0107-4775-8d91-04b3febaaa8e.png">
-          
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,azure,c,cs,cpp,css,git,github,gitlab,gherkin,html,java,js,jenkins,jquery,latex,kubernetes,matlab,mysql,nodejs,powershell,postgres,py,r,react,selenium,unity,visualstudio,vscode,php" />
+  </a>
+</p>          
 </div>
   
   ##
