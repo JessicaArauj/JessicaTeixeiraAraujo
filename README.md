@@ -46,20 +46,21 @@
   
 </span>
 
-
   
 <span align="justify">
  
 
-- [x] ⚙   acharel em Engenharia de Produção na Faculdade Estácio de Sá (ESTÁCIO)
+- [x] ⚙   Bacharel em Engenharia de Produção na Faculdade Estácio de Sá (ESTÁCIO)
 
-- [ ] 🚆  Tecnólogo em Logística na Universidade Paulista (UNIP)
+- [x] 🚆  Tecnólogo em Logística na Universidade Paulista (UNIP)
 
-- [ ] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO) e estudante para certificação *PSM I* da Scrum.org
+- [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
 
 - [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
 
 - [ ] 🔗  Estudante tecnólogo em DevOps no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
+  
+- [ ] 📚  Estudante em certificação internacional de título na Scrum.org para *Professional Scrum Masterinternacional (PSM I)*
 
 - [ ] 👩🏻‍💻  Estudante em Engenharia da Qualidade de Software na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
 
@@ -72,7 +73,8 @@
 - [ ] 🎲  Estudante em Specialist SQL Database na Digital Innovation One (DIO)
   
   
-  #### Legenda da lista:
+  
+Legenda:
   
 - [x] Concluída
   
