@@ -1,12 +1,22 @@
 <span align="center">
 
-# *Olá, seja muito bem-vindo ao meu perfil GitHub! 🖐🏻* 
 
+# *Olá, seja muito bem-vindo ao meu perfil GitHub! 🖐🏻* 
+  
 ## *Vamos conhecer minha trajetória?*
 
-##### Sou criadora de conteúdo de programação e tecnologia voltados para análise de dados, inteligência artificial, machine learning e qualidade de software.
+</span>
 
+<span align="justify">
+  
+Me chamo Jessica, sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de análise e ciência de dados, devops, engenharia da qualidade de software, estatística, gestão de projetos, inteligência artificial, internet das coisas, machine learning, metodologias ágeis e framework scrum.
+  
+</span>
 
+#
+
+<span align="center">
+  
 <div align="center">
   <a href="https://github.com/JessicaTeixeiraAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaTeixeiraAraujo&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
