@@ -9,7 +9,7 @@
 
 <span align="justify">
   
-Me chamo Jessica, sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de análise e ciência de dados, devops, engenharia da qualidade de software, estatística, gestão de projetos, inteligência artificial, internet das coisas, machine learning, metodologias ágeis e framework scrum.
+Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de análise e ciência de dados, devops, engenharia da qualidade de software, estatística, gestão de projetos, inteligência artificial, internet das coisas, machine learning, metodologias ágeis e framework scrum.
   
 </span>
 
