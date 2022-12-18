@@ -1,9 +1,7 @@
 <span align="center">
 
 
-# *Olá, seja muito bem-vindo ao meu perfil GitHub! 🖐🏻* 
-  
-## *Vamos conhecer minha trajetória?*
+## *Olá, seja muito bem-vindo ao meu perfil GitHub! Vamos conhecer minha trajetória?*
 
 </span>
 
