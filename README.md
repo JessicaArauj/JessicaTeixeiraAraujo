@@ -70,7 +70,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 
 - [ ] 🔗  Estudante tecnólogo em DevOps no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
   
-- [ ] 📚  Estudante em certificação internacional para título na Scrum.org de *Professional Scrum Masterinternacional (PSM I)*
+- [ ] 📚  Estudante em certificação internacional para título na Scrum.org de *Professional Scrum Master (PSM I)*
 
 - [ ] 👩🏻‍💻  Estudante em Engenharia da Qualidade de Software na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
 
