@@ -23,7 +23,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,azure,c,cs,cpp,css,git,github,gitlab,gherkin,html,java,js,jenkins,jquery,latex,kubernetes,matlab,mysql,nodejs,powershell,postgres,py,r,react,selenium,unity,visualstudio,vscode,php" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cs,cpp,css,discord,git,github,gitlab,gherkin,html,java,js,jenkins,jquery,latex,kubernetes,matlab,mysql,nodejs,php,powershell,postgres,py,pytorch,r,react,selenium,tensorflow,unity,visualstudio,vscode" />
   </a>
 </p>          
 </div>
@@ -58,6 +58,8 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 - [x] 🚆  Tecnólogo em Logística na Universidade Paulista (UNIP)
 
 - [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
+  
+- [x] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
 
 - [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
 
@@ -68,8 +70,6 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 - [ ] 👩🏻‍💻  Estudante em Engenharia da Qualidade de Software na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
 
 - [ ] 💻  Estudante em Desenvolvovimento Full Stack Pyton na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
-
-- [ ] 🤖  Estudante em Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
 
 - [ ] 🚀  Estudante em Specialist Machine Learning na Digital Innovation One (DIO) 
 
