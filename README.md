@@ -23,7 +23,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 <div style="display: inline_block"><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cs,cpp,css,discord,git,github,gitlab,gherkin,html,java,js,jenkins,jquery,latex,kubernetes,matlab,mysql,nodejs,php,powershell,postgres,py,pytorch,r,react,selenium,tensorflow,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cs,cpp,css,discord,django,dotnet,eclipse,figma,git,github,gitlab,gherkin,html,java,js,jenkins,jquery,latex,kubernetes,matlab,maven,mysql,nodejs,postgres,powershell,postgres,py,pytorch,r,react,redux,spring,selenium,tensorflow,unity,visualstudio,vscode" />
   </a>
 </p>          
 </div>
