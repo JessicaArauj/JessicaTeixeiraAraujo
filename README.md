@@ -59,7 +59,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 
 - [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
   
-- [] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
+- [ ] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
 
 - [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
 
