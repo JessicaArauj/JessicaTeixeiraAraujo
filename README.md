@@ -7,7 +7,7 @@
 
 <span align="justify">
   
-Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de conhecimento da análise e ciência de dados, desenvolvimento full stack python, devops, engenharia da qualidade de software, estatística, gestão de projetos, inteligência artificial, internet das coisas, machine learning, metodologias ágeis e framework scrum. Aqui na plataforama você terá acesso a alguns projetos realizados durante meus estudos, trajetória profissional e pessoal.
+Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de conhecimento da análise e ciência de dados, desenvolvimento full stack python, devops, engenharia de software, estatística, gestão de projetos, framework scrum, inteligência artificial, internet das coisas, machine learning, metodologias ágeis, qualidade e testes de software. Aqui na plataforama você terá acesso a alguns projetos realizados durante meus estudos, trajetória profissional e pessoal.
   
 </span>
 
@@ -59,11 +59,11 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 
 - [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
   
-- [x] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
+- [] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
 
 - [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
 
-- [ ] 🔗  Estudante tecnólogo em DevOps no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
+- [ ] 🔗  Graduanda em Engenharia de Software no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
   
 - [ ] 📚  Estudante em certificação internacional para título na Scrum.org de *Professional Scrum Master (PSM I)*
 
