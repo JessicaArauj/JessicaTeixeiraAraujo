@@ -7,7 +7,7 @@
 
 <span align="justify">
   
-Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de conhecimento da análise e ciência de dados, desenvolvimento full stack python, devops, engenharia de software, estatística, gestão de projetos, framework scrum, inteligência artificial, internet das coisas, machine learning, metodologias ágeis, qualidade e testes de software. Aqui na plataforama você terá acesso a alguns projetos realizados durante meus estudos, trajetória profissional e pessoal.
+Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicação da programação em software e tecnologia. Atuo nas áreas de conhecimento da análise e ciência de dados, desenvolvimento full stack python, devops, engenharia de software, estatística, gestão de projetos, framework scrum, inteligência artificial, internet das coisas, machine learning, metodologias ágeis, qualidade e testes de software. Aqui na plataforma você terá acesso a alguns projetos realizados durante meus estudos, trajetória profissional e pessoal.
   
 </span>
 
