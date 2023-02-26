@@ -58,20 +58,24 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 - [x] 🚆  Tecnólogo em Logística na Universidade Paulista (UNIP)
 
 - [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
+
+- [x] 🔒  Specialist Cybersecurity na Digital Innovation One (DIO)
   
 - [x] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
+
+- [x] 🚀  Specialist Machine Learning na Digital Innovation One (DIO)
 
 - [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
 
 - [ ] 🔗  Graduanda em Engenharia de Software no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
+
+- [ ] 📊  Pós Graduanda em Data Science e Machine Learning na XP Educação (XPE)
   
 - [ ] 📚  Estudante em certificação internacional para título na Scrum.org de *Professional Scrum Master (PSM I)*
 
 - [ ] 👩🏻‍💻  Estudante em Engenharia da Qualidade de Software na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
 
 - [ ] 💻  Estudante em Desenvolvovimento Full Stack Pyton na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
-
-- [ ] 🚀  Estudante em Specialist Machine Learning na Digital Innovation One (DIO) 
 
 - [ ] 🎲  Estudante em Specialist SQL Database na Digital Innovation One (DIO)
   
