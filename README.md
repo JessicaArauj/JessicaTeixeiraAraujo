@@ -53,7 +53,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 <span align="justify">
  
 
-- [x] ⚙   Bacharel em Engenharia de Produção na Faculdade Estácio de Sá (ESTÁCIO)
+- [x] ⚙   Bacharel em Engenharia de Produção na Universidade do Estado do Pará (UEPA)
 
 - [x] 🚆  Tecnólogo em Logística na Universidade Paulista (UNIP)
 
@@ -70,6 +70,8 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 - [ ] 🔗  Graduanda em Engenharia de Software no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
 
 - [ ] 📊  Pós Graduanda em Data Science e Machine Learning na XP Educação (XPE)
+  
+- [ ] 📊  Estudante em Data Science na HarvardX (EDX)
   
 - [ ] 📚  Estudante em certificação internacional para título na Scrum.org de *Professional Scrum Master (PSM I)*
 
