@@ -67,9 +67,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 
 - [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
 
-- [ ] 🔗  Graduanda em Engenharia de Software no Centro Universitário Anhanguera Pitágoras Ampli (AMPLI)
-
-- [ ] 📊  Pós Graduanda em Data Science e Machine Learning na XP Educação (XPE)
+- [ ] 🔗  Graduanda em Engenharia da Computação Faculdade Descomplica (DESCOMPLICA)
   
 - [ ] 📊  Estudante em Data Science na HarvardX (EDX)
   
