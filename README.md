@@ -66,8 +66,6 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 - [x] 🚀  Specialist Machine Learning na Digital Innovation One (DIO)
 
 - [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
-
-- [ ] 🔗  Graduanda em Engenharia da Computação Faculdade Descomplica (DESCOMPLICA)
   
 - [ ] 📊  Estudante em Data Science na HarvardX (EDX)
   
@@ -76,9 +74,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 - [ ] 👩🏻‍💻  Estudante em Engenharia da Qualidade de Software na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
 
 - [ ] 💻  Estudante em Desenvolvovimento Full Stack Pyton na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
-
-- [ ] 🎲  Estudante em Specialist SQL Database na Digital Innovation One (DIO)
-  
+ 
   
   
 Legenda:
