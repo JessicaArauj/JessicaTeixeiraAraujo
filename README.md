@@ -75,7 +75,7 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 
 - [ ] 📚  Estudando para Título na Scrum.org de *Professional Scrum Master (PSM I)*
 
-- [ ] 📚  Estudando para Título na ISTQB.org de * Certified Tester Foundation Level (CTFL)*
+- [ ] 📚  Estudando para Título na ISTQB.org de *Certified Tester Foundation Level (CTFL)*
  
   
   
