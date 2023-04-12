@@ -53,27 +53,29 @@ Sou criadora de conteúdos voltados para o setor de desenvolvimento e aplicaçã
 <span align="justify">
  
 
-- [x] ⚙   Bacharel em Engenharia de Produção na Universidade do Estado do Pará (UEPA)
+- [x] ⚙   Bacharel em Engenharia de Produção (UEPA)
 
-- [x] 🚆  Tecnólogo em Logística na Universidade Paulista (UNIP)
+- [x] 🚆  Tecnólogo em Logística (UNIP)
 
-- [x] 👩🏻‍💼  Srum Master pela Digital Innovation One (DIO)
+- [x] 👩🏻‍💼  Srum Master (DIO)
 
-- [x] 🔒  Specialist Cybersecurity na Digital Innovation One (DIO)
+- [x] 🔒  Specialist Cybersecurity (DIO)
   
-- [x] 🤖  Specialist Internet of Things (IoT) na Digital Innovation One (DIO)
+- [x] 🤖  Specialist Internet of Things IoT (DIO)
 
-- [x] 🚀  Specialist Machine Learning na Digital Innovation One (DIO)
+- [x] 🚀  Specialist Machine Learning (DIO)
 
-- [ ] 📈  Graduanda em Estatística na Universidade Federal do Pará (UFPA)
+- [ ] 📈  Graduanda Estatística (UFPA)
+
+- [ ] 💻  Estudando Desenvolvedor Full Stack Pyton (EBAC)
   
-- [ ] 📊  Estudante em Data Science na HarvardX (EDX)
-  
-- [ ] 📚  Estudante em certificação internacional para título na Scrum.org de *Professional Scrum Master (PSM I)*
+- [ ] 🐍  Estudando Desenvolvedor Pyton (XPE)
 
-- [ ] 👩🏻‍💻  Estudante em Engenharia da Qualidade de Software na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
+- [ ] 👩🏻‍💻  Estudando Engenharia da Qualidade de Software (EBAC)
 
-- [ ] 💻  Estudante em Desenvolvovimento Full Stack Pyton na Escola Britânica de Artes Criativas e Tecnologia (EBAC)
+- [ ] 📚  Estudando para Título na Scrum.org de *Professional Scrum Master (PSM I)*
+
+- [ ] 📚  Estudando para Título na ISTQB.org de * Certified Tester Foundation Level (CTFL)*
  
   
   
