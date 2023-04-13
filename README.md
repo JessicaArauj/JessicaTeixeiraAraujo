@@ -77,9 +77,9 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [ ] 👩🏻‍💻  Estudando Engenharia da Qualidade de Software (EBAC)
 
-- [ ] 📚  Estudando para Título na Scrum.org de *Professional Scrum Master (PSM I)*
+- [ ] 🎖️  Estudando para Título na Scrum.org de *Professional Scrum Master (PSM I)*
 
-- [ ] 📚  Estudando para Título na ISTQB.org de *Certified Tester Foundation Level (CTFL)*
+- [ ] 🎖️  Estudando para Título na ISTQB.org de *Certified Tester Foundation Level (CTFL)*
  
   
   
