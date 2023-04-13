@@ -8,7 +8,9 @@
 <span align="justify">
   
 Apresentando-me, sou uma profissional interdisciplinar em transição de carreira, apaixonada por ciência, dados e software. Atualmente, participo de um movimento internacional como STEM, acrônimo para Science, Technology, Engineering and Mathematics, com o apoio e mentoria da *GOTARA*. 
+
 Atuo nas áreas de conhecimento da análise, ciência e engenharia de dados, desenvolvimento full stack python, devops, engenharia de software, estatística, gestão de projetos, framework scrum, inteligência artificial, internet das coisas, machine learning, metodologias ágeis, qualidade e testes de software. 
+
 Nesta plataforma, você terá acesso a alguns projetos realizados durante: estudos, trajetória profissional e pessoal.
   
 </span>
