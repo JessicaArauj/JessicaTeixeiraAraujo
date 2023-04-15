@@ -47,19 +47,35 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
   </span>
   
 
-<span align="center">
-  
-# *Formações acadêmicas e cursos destaques:*
-  
-</span>
-
   
 <span align="justify">
  
+# Formação Acadêmica:
 
 - [x] ⚙   Bacharel em Engenharia de Produção (UEPA)
 
 - [x] 🚆  Tecnólogo em Logística (UNIP)
+
+- [ ] 📈  Graduanda Estatística (UFPA)
+
+
+# Formação Especializada:
+
+- [ ] 💻  Estudando Desenvolvedor Full Stack Pyton (EBAC)
+  
+- [ ] 👩🏻‍💻  Estudando Engenharia da Qualidade de Software (EBAC)
+
+
+# Certificação de Título Internacional: 
+
+- [ ] 🎖️  Estudando para Título na Scrum.org de *Professional Scrum Master (PSM I)*
+
+- [ ] 🎖️  Estudando para Título na ISTQB.org de *Certified Tester Foundation Level (CTFL)*
+ 
+
+# Bootcamps e Imersões:
+
+- [x] 🐞  Quality Assurance Para Mulheres (DIO)
 
 - [x] 👩🏻‍💼  Srum Master (DIO)
 
@@ -69,19 +85,10 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [x] 🚀  Specialist Machine Learning (DIO)
 
-- [ ] 📈  Graduanda Estatística (UFPA)
-
-- [ ] 💻  Estudando Desenvolvedor Full Stack Pyton (EBAC)
-  
 - [ ] 🐍  Estudando Desenvolvedor Pyton (XPE)
 
-- [ ] 👩🏻‍💻  Estudando Engenharia da Qualidade de Software (EBAC)
+- [ ] 🌐  Estudando Desenvolvedora Web (ELASNATECH2023)
 
-- [ ] 🎖️  Estudando para Título na Scrum.org de *Professional Scrum Master (PSM I)*
-
-- [ ] 🎖️  Estudando para Título na ISTQB.org de *Certified Tester Foundation Level (CTFL)*
- 
-  
   
 Legenda:
   
@@ -90,3 +97,5 @@ Legenda:
 - [ ] Andamento
   
 </span>
+
+# Cursos mais relevantes:
