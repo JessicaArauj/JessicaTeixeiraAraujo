@@ -97,5 +97,3 @@ Legenda:
 - [ ] Andamento
   
 </span>
-
-# Cursos mais relevantes:
