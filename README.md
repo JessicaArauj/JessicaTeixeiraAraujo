@@ -59,7 +59,7 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 - [ ] 📈  Graduanda Estatística (UFPA)
 
 
-# Formação Especializada:
+# Formação Especializada na Área TECH:
 
 - [ ] 💻  Estudando Desenvolvedor Full Stack Pyton (EBAC)
   
