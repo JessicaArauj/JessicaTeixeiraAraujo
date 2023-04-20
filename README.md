@@ -52,13 +52,13 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
  
 # Formação Acadêmica:
 
-- [x] ⚙   Bacharel em Engenharia de Produção (UEPA)
+- [x] ⚙   Engenharia de Produção (UEPA)
 
-- [x] 🚆  Tecnólogo em Logística (UNIP)
+- [x] 🚆  Logística (UNIP)
 
-- [ ] 📈  Graduanda Estatística (UFPA)
+- [ ] 📈  Estatística (UFPA)
 
-- [ ] 🖥️  Tecnólogo Desenvolvimento Back-End (AMPLI)
+- [ ] 🖥️  Desenvolvimento Back-End (AMPLI)
 
 
 # Formação Especializada na Área TECH:
