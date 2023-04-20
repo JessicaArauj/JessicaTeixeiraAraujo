@@ -58,7 +58,7 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [ ] 📈  Graduanda Estatística (UFPA)
 
-- [ ] 🖥️  Tecnologo Desenvolvimento Back-End (AMPLI)
+- [ ] 🖥️  Tecnólogo Desenvolvimento Back-End (AMPLI)
 
 
 # Formação Especializada na Área TECH:
