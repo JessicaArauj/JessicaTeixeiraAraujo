@@ -56,9 +56,9 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [x] 🚆  Logística (UNIP)
 
-- [ ] 📈  Estatística (UFPA)
+- [ ] 📈  Estudando Estatística (UFPA)
 
-- [ ] 🖥️  Desenvolvimento Back-End (AMPLI)
+- [ ] 🖥️  Estudando Desenvolvimento Back-End (AMPLI)
 
 
 # Formação Especializada na Área TECH:
