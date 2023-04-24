@@ -86,6 +86,8 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [x] 🚀  Specialist Machine Learning (DIO)
 
+- [ ] ☁️  Estudando Cloud AWS (DIO)
+
 - [ ] 🐍  Estudando Desenvolvedor Pyton (XPE)
 
 - [ ] 🌐  Estudando Desenvolvedora Web (ELASNATECH2023)
