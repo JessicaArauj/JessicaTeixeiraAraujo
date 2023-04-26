@@ -87,6 +87,8 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 - [x] 🚀  Specialist Machine Learning (DIO)
 
 - [ ] ☁️  Estudando Cloud AWS (DIO)
+  
+- [ ] 📱  Estudando Kotlin Backend Developer (DIO)
 
 - [ ] 🐍  Estudando Desenvolvedor Pyton (XPE)
 
