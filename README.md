@@ -58,8 +58,6 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [ ] 📈  Estudando Estatística (UFPA)
 
-- [ ] 🖥️  Estudando Desenvolvimento Back-End (AMPLI)
-
 
 # Formação Especializada na Área TECH:
 
