@@ -58,6 +58,8 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [ ] 📈  Estudando Estatística (UFPA)
 
+- [ ] 🔍 Estudando Inspetor de Qualidade (IFSULDEMINAS)
+
 
 # Formação Especializada na Área TECH:
 
