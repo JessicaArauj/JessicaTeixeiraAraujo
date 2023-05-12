@@ -77,6 +77,8 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 # Bootcamps e Imersões:
 
+- [x] ☁️  Cloud AWS (DIO)
+  
 - [x] 🐞  Quality Assurance Para Mulheres (DIO)
 
 - [x] 👩🏻‍💼  Srum Master (DIO)
@@ -86,9 +88,7 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 - [x] 🤖  Specialist Internet of Things IoT (DIO)
 
 - [x] 🚀  Specialist Machine Learning (DIO)
-
-- [ ] ☁️  Estudando Cloud AWS (DIO)
-  
+ 
 - [ ] 📱  Estudando Kotlin Backend Developer (DIO)
 
 - [ ] 🐍  Estudando Desenvolvedor Pyton (XPE)
