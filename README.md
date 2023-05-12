@@ -66,8 +66,7 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 - [ ] 👩🏻‍💻  Estudando Desenvolvedor Fullstak Python (EBAC)
 
 - [ ] 👩🏻‍💻  Estudando Engenharia da Qualidade de Software (EBAC)
-
-- [ ] 💻  Estudando Especialista Back-end Java (EBAC)
+  
 
 # Certificação de Título Internacional: 
 
