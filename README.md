@@ -71,7 +71,7 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 # Formação Técnico Profissional Especializada na Área TECH:
 
-- [ ] 👩🏻‍💻  Estudando Desenvolvedor Fullstak Python (EBAC)
+- [ ] 👩🏻‍💻  Estudando Desenvolvedor Full Stak Python (EBAC)
 
 - [ ] 👩🏻‍💻  Estudando Engenharia da Qualidade de Software (EBAC)
   
