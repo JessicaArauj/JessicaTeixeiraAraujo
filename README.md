@@ -56,12 +56,20 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 
 - [x] 🚆  Logística (UNIP)
 
-- [ ] 📈  Estudando Estatística (UFPA)
+- [ ] 📈  Estudando Bacharel em Estatística (UFPA)
 
-- [ ] 🔍 Estudando Inspetor de Qualidade (IFSULDEMINAS)
+- [ ] 🔍 Estudando Técnico em Inspetor de Qualidade (IFSULDEMINAS)
+
+- [ ] 📈 Estudando Pós-Graduação em Desenvolvimento Full Stack (DESCOMPLICA)
+
+- [ ] 📈 Estudando Pós-Graduação em Inovação e Empreendedorismo (DESCOMPLICA)
+
+- [ ] 📈 Estudando Pós-Graduação em Product Management (DESCOMPLICA)
+  
+- [ ] 📈 Estudando MBA em Gestão de Projetos e Metodologias Ágeis (DESCOMPLICA)
 
 
-# Formação Especializada na Área TECH:
+# Formação Técnico Profissional Especializada na Área TECH:
 
 - [ ] 👩🏻‍💻  Estudando Desenvolvedor Fullstak Python (EBAC)
 
@@ -88,8 +96,6 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 - [x] 🤖  Specialist Internet of Things IoT (DIO)
 
 - [x] 🚀  Specialist Machine Learning (DIO)
- 
-- [ ] 📱  Estudando Kotlin Backend Developer (DIO)
 
 - [ ] 🐍  Estudando Desenvolvedor Pyton (XPE)
 
