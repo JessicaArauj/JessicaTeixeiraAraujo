@@ -52,21 +52,25 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
  
 # Formação Acadêmica:
 
-- [x] ⚙   Engenharia de Produção (UEPA)
+- [x]  ⚙  Engenharia de Produção (UEPA)
 
 - [x] 🚆  Logística (UNIP)
 
 - [ ] 📈  Estudando Bacharel em Estatística (UFPA)
 
-- [ ] 🔍 Estudando Técnico em Inspetor de Qualidade (IFSULDEMINAS)
+- [ ] 🔍  Estudando Técnico em Inspetor de Qualidade (IFSULDEMINAS)
 
-- [ ] 📈 Estudando Pós-Graduação em Desenvolvimento Full Stack (DESCOMPLICA)
+- [ ] </> Estudando Pós-Graduação em Desenvolvimento Full Stack (DESCOMPLICA)
 
-- [ ] 📈 Estudando Pós-Graduação em Inovação e Empreendedorismo (DESCOMPLICA)
+- [ ] 💡 Estudando Pós-Graduação em Inovação e Empreendedorismo (DESCOMPLICA)
 
-- [ ] 📈 Estudando Pós-Graduação em Product Management (DESCOMPLICA)
+- [ ] 👩‍💻 Estudando Pós-graduação em Liderança e Gestão de Pessoas (DESCOMPLICA)
+
+- [ ] 📦 Estudando Pós-Graduação em Product Management (DESCOMPLICA)
   
 - [ ] 📈 Estudando MBA em Gestão de Projetos e Metodologias Ágeis (DESCOMPLICA)
+
+- [ ] 📊 Estudando MBA em Big Data e Inteligência Competitiva (DESCOMPLICA)
 
 
 # Formação Técnico Profissional Especializada na Área TECH:
