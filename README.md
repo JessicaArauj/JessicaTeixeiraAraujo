@@ -7,9 +7,7 @@
 
 <span align="justify">
   
-Apresentando-me, sou uma profissional interdisciplinar apaixonada por ciência, dados e software. Atualmente, participo de um movimento internacional como STEM, acrônimo para Science, Technology, Engineering and Mathematics, com o apoio e mentoria da *GOTARA*. 
-
-Atuo nas áreas de conhecimento da análise, ciência e engenharia de dados, desenvolvimento full stack python, devops, engenharia de software, estatística, gestão de projetos, framework scrum, inteligência artificial, internet das coisas, machine learning, metodologias ágeis, qualidade e testes de software. 
+Apresentando-me, sou uma profissional interdisciplinar apaixonada por ciência, dados e software. Atuo com visão holística e sistêmica no ecossistema de software, sistemas, computação, dados, gestão, qualidade, negócios, engenharia, ciência, inovação e tecnologia de ponta a ponta.
 
 Nesta plataforma, você terá acesso a alguns projetos realizados durante: estudos, trajetória profissional e pessoal.
   
@@ -45,71 +43,4 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
 </div>
   
   </span>
-  
 
-  
-<span align="justify">
- 
-# Formação Acadêmica:
-
-- [x]  ⚙  Engenharia de Produção (UEPA)
-
-- [x] 🚆  Logística (UNIP)
-
-- [ ] 📈  Estudando Bacharel em Estatística (UFPA)
-
-- [ ] 🔍  Estudando Técnico em Inspetor de Qualidade (IFSULDEMINAS)
-
-- [ ] </> Estudando Pós-Graduação em Desenvolvimento Full Stack (DESCOMPLICA)
-
-- [ ] 💡 Estudando Pós-Graduação em Inovação e Empreendedorismo (DESCOMPLICA)
-
-- [ ] 👩‍💻 Estudando Pós-graduação em Liderança e Gestão de Pessoas (DESCOMPLICA)
-
-- [ ] 📦 Estudando Pós-Graduação em Product Management (DESCOMPLICA)
-  
-- [ ] 📈 Estudando MBA em Gestão de Projetos e Metodologias Ágeis (DESCOMPLICA)
-
-- [ ] 📊 Estudando MBA em Big Data e Inteligência Competitiva (DESCOMPLICA)
-
-
-# Formação Técnico Profissional Especializada na Área TECH:
-
-- [ ] 👩🏻‍💻  Estudando Desenvolvedor Full Stak Python (EBAC)
-
-- [ ] 👩🏻‍💻  Estudando Engenharia da Qualidade de Software (EBAC)
-  
-
-# Certificação de Título Internacional: 
-
-- [ ] 🎖️  Estudando para Título na Scrum.org de *Professional Scrum Master (PSM I)*
-
-- [ ] 🎖️  Estudando para Título na ISTQB.org de *Certified Tester Foundation Level (CTFL)*
- 
-
-# Bootcamps e Imersões:
-
-- [x] ☁️  Cloud AWS (DIO)
-  
-- [x] 🐞  Quality Assurance Para Mulheres (DIO)
-
-- [x] 👩🏻‍💼  Srum Master (DIO)
-
-- [x] 🔒  Specialist Cybersecurity (DIO)
-  
-- [x] 🤖  Specialist Internet of Things IoT (DIO)
-
-- [x] 🚀  Specialist Machine Learning (DIO)
-
-- [ ] 🐍  Estudando Desenvolvedor Pyton (XPE)
-
-- [ ] 🌐  Estudando Desenvolvedora Web (ELASNATECH2023)
-
-  
-Legenda:
-  
-- [x] Concluída
-  
-- [ ] Andamento
-  
-</span>
