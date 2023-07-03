@@ -19,7 +19,8 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
   
 <div align="center">
   <a href="https://github.com/JessicaTeixeiraAraujo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaTeixeiraAraujo&layout=compact&langs_count=7&theme=codeSTACKr" style="width: 80%; max-width: 300px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicateixeiraaraujo&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaTeixeiraAraujo&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
   </a>
 </div>
 
