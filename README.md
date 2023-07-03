@@ -37,7 +37,9 @@ Nesta plataforma, você terá acesso a alguns projetos realizados durante: estud
  	<a href="https://twitter.com/jessica_taraujo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessicateixeiraaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessica-teixeira-araujo-666066156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+ ![snake animation](https://github.com/JessicaTeixeiraAraujo/JessicaTeixeiraAraujo/blob/output/github-contribution-grid-snake2.svg)
+
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
  
 </div>
