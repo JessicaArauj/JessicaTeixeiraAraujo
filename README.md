@@ -2,6 +2,7 @@
 
 
 ## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+Is+Jessica+Teixeira+Araujo;I'm+From+Brazil;I+Student+Artificial+Intelligence+Engineering;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
