@@ -2,7 +2,7 @@
 
 
 ## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+Is+Jessica+Teixeira+Araujo;I'm+From+Brazil;I+I'am+A+Software+Quality+Engineer+And+Quality+Inspector;Full+Stack+Developer+With+Emphasis+On+Python;I+Study+Statistic;I'am+Future+Artificial+Intelligence+Engineering;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+Is+Jessica+Teixeira+Araujo;I'm+From+Brazil;I+I'am+A+Software+Quality+Engineer+And+Quality+Inspector;Full+Stack+Developer+With+A+Focus+On+Python;I+Study+Statistic;I'am+Future+Artificial+Intelligence+Engineering;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
