@@ -8,7 +8,7 @@
 
 <span align="justify">
   
-Apresentando-me, sou uma profissional transdisciplinar apaixonada por ciência, dados e software. Atuo com visão holística e sistêmica no ecossistema de software, sistemas, computação, dados, gestão, qualidade, negócios, engenharia, ciência, inovação e tecnologia de ponta a ponta.
+Apresentando-me, sou uma profissional transdisciplinar apaixonada por engenharia, ciência, dados, negócios e software. Atuo com visão holística e sistêmica no ecossistema de software, sistemas, computação, dados, gestão, qualidade, negócios, engenharia, ciência, inovação e tecnologia de ponta a ponta.
 
 Nesta plataforma, você terá acesso a alguns projetos realizados durante: estudos, trajetória profissional e pessoal.
   
