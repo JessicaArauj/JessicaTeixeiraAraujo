@@ -9,7 +9,7 @@
   
 Apresentando-me, sou uma profissional transdisciplinar apaixonada pelo que faço! Atuo com visão holística e sistêmica no ecossistema de software, sistemas, computação, dados, gestão, qualidade, negócios, engenharia, ciência, inovação e tecnologia de ponta a ponta.
 
-Nesta plataforma, você terá acesso a alguns projetos realizados durante: estudos, trajetória profissional e pessoal.
+Nesta plataforma, você terá acesso a alguns projetos realizados durante: estudos, trajetória profissional e pessoal 
   
 </span>
 
