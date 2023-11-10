@@ -7,6 +7,8 @@
 
 <span align="justify">
 
+Sou membro do movimento STEAM (Science, Technology, Engineering, Arts and Mathematics), uma abordagem que enfatiza a integração das disciplinas de Ciência, Tecnologia, Engenharia, Artes e Matemática para promover uma visão holística e interdisciplinar.
+
 Possuo formação T-shaped, conceito especialista-generalista, com experiência em diversas áreas, integrando-as para obter uma visão abrangente no desenvolvimento dos processos, a fim de executar as atividades com o máximo de excelência. Acredito que inovação é o pilar essencial para o progresso. Por isso, busco superar as expectativas ao propor soluções verdadeiramente disruptivas e eficientes, pensando fora da caixa.
   
 </span>
