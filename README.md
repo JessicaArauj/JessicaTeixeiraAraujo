@@ -1,7 +1,7 @@
 <span align="center">
 
 ## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Jessica+Teixeira+Araujo.;I'm+from+Brazil+and+27+years+old!;Expert+professional+in:+Software+Quality+Engineer,;Quality+Inspector,+Automation,+Consultancy,;+Project+Management,+Analyst,+Statistic,;+Data+Science,+Investigator,+Civic+Researcher;and+Full+Stack+Developer+with+a+focus+on+Python.;Bachelor's+Study+in+Statistics.;I'am+future+Artificial+Intelligence+Engineering!;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Jessica+Teixeira+Araujo.;I'm+from+Brazil+and+28+years+old!;Expert+professional+in:+Quality+Assurance,;+Software+Quality+and+Testing,+Process+Automation,;Full+Stack+Developer,+Data+Science+and+Statistic.;Bachelor's+Study+in+Statistics.;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
