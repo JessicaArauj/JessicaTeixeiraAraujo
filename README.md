@@ -1,7 +1,7 @@
 <span align="center">
 
 ## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Jessica+Teixeira+Araujo.;I'm+from+Brazil+and+28+years+old!;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Jessica+Araujo.;I'm+from+Brazil+and+28+years+old!;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
@@ -22,7 +22,7 @@ Possuo formação T-shaped, conceito especialista-generalista, com experiência 
   </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JessicaTeixeiraAraujo&bg_color=0d1117&color=b1633f&line=b1633f&point=b1633f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JessicaArauj&bg_color=0d1117&color=b1633f&line=b1633f&point=b1633f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div style="display: inline_block"><br>
