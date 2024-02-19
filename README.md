@@ -16,9 +16,9 @@ Possuo formação T-shaped, conceito especialista-generalista, com experiência 
 <span align="center">
   
 <div align="center">
-  <a href="https://github.com/JessicaTeixeiraAraujo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicateixeiraaraujo&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaTeixeiraAraujo&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+  <a href="https://github.com/JessicaArauj">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicaarauj&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaarauj&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
   </a>
 </div>
 
@@ -33,9 +33,6 @@ Possuo formação T-shaped, conceito especialista-generalista, com experiência 
 </p>          
 
 
-  
-<!--  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) -->
- 
 </div>
   
   </span>
