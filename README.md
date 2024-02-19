@@ -7,7 +7,7 @@
 
 <span align="justify">
 
-Possuo formação T-shaped, conceito especialista-generalista, com experiência em diversas áreas, integrando-as para obter uma visão abrangente no desenvolvimento dos processos, a fim de executar as atividades com o máximo de excelência. Acredito que inovação é o pilar essencial para o progresso. Por isso, busco superar as expectativas ao propor soluções verdadeiramente disruptivas e eficientes, pensando fora da caixa.
+Tenho experiência em diversas áreas e atuo integrando-as para obter uma visão abrangente e holística no desenvolvimento dos processos, visando executar as atividades com o máximo de excelência. Acredito que a inovação é o pilar essencial para o progresso. Por isso, busco superar as expectativas ao propor soluções verdadeiramente disruptivas e eficientes, pensando fora da caixa.
   
 </span>
 
