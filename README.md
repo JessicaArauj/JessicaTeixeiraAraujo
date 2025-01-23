@@ -1,7 +1,7 @@
 <span align="center">
 
 ## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Jessica+Araujo.;I'm+from+Brazil+and+28+years+old!;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Jessica+Araujo.;I'm+from+Brazil+and+29+years+old!;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
