@@ -1,13 +1,13 @@
 <span align="center">
 
-## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
+## *Hello, welcome to my profile GitHub!*
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Jessica+Araujo.;I'm+from+Brazil+and+29+years+old!;Be+Welcome!)](https://git.io/typing-svg)
 
 </span>
 
 <span align="justify">
 
-Tenho experiência em diversas áreas e atuo integrando-as para obter uma visão abrangente e holística no desenvolvimento dos processos, visando executar as atividades com o máximo de excelência. Acredito que a inovação é o pilar essencial para o progresso. Por isso, busco superar as expectativas ao propor soluções verdadeiramente disruptivas e eficientes, pensando fora da caixa.
+I have experience in several areas and I work by integrating them to obtain a comprehensive and holistic vision in the development of processes, aiming to carry out activities with maximum excellence. I believe that innovation is the essential pillar for progress. Therefore, I seek to exceed expectations by proposing truly disruptive and efficient solutions, thinking outside the box.
   
 </span>
 
